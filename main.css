@@ -1,1 +1,22 @@
 /* Put your css here for your table and page styling */
+
+table {
+  max-width: 960px;
+  margin: 10px auto;
+}
+
+tr {
+  background: #dde;
+  border-bottom: 1px solid #FFF;
+  margin-bottom: 5px;
+}
+
+th, td {
+  text-align: left;
+  padding: 20px;
+  font-weight: 300;
+}
+
+th{
+ background: #ffe; 
+}
